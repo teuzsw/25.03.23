@@ -1,0 +1,44 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {font-family:"Arial", sans-serif;
+}
+
+.cabecalho {
+  background-color: #3abdab;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 4px 0;
+  
+}
+
+.foto-cabecalho {
+  width: 5%;
+}
+
+.cabecalho-lista-item {
+  display: inline-block;
+  margin: 0 15px;
+  font-size: 24px;
+  color: white;
+  
+}
+
+label {
+  color: black;
+}
+
+h1 {
+  background-color: #d1c7c794;
+  text-align: center;
+  padding: 9px;
+}
+
+p {
+  background-color: #d1c7c794;
+  padding: 50px 15px;
+}
